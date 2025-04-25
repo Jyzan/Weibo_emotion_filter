@@ -23,8 +23,8 @@
 ## 安装说明
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/team-comment-analyzer.git
-cd team-comment-analyzer
+git clone https://github.com/Jyzan/Weibo_emotion_filter.git
+cd Weibo_emotion_filter
 ```
 
 2. 安装依赖
